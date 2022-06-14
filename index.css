@@ -170,8 +170,19 @@ button {
         justify-content: space-between;
         align-self: left;
         margin-left: 8cm;
+        margin-bottom: -2cm;
       }
 
+      .imagen-mision {
+         display: flex;
+        justify-content: center;
+        align-self: center;
+       margin-top: 2cm;              
+      }
+      .imagen-mision img{
+        width: 300vh;
+        height: 60vh;
+      }
       .ventajas {
           padding: 3.5%;
           display: flex;
@@ -188,7 +199,8 @@ button {
           justify-content: center;
           align-items: center;
           font-size: 45px;  
-          color: black;      
+          color: black;  
+          margin-top: 7cm;    
       }
 
       .ventajas-descripcion {
