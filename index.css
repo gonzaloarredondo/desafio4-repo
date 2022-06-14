@@ -163,6 +163,7 @@ button {
       .parrafo-mision {
           display: flex;
           justify-content: right;
+          margin-top: 1.5cm;
       }
 
       .icono-mision {
